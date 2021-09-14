@@ -8,6 +8,7 @@ public class SelectionSort {
             for (int j = i; j < arr.length; j++) {
                 if (arr[j] < arr[minptr]) {
                     minptr = j;
+
                 }
             }
 
