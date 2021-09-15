@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/bubbleSort/bubbleSort.iml" filepath="$PROJECT_DIR$/bubbleSort/bubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/insertSort/insertSort.iml" filepath="$PROJECT_DIR$/insertSort/insertSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/mergeSort/mergeSort.iml" filepath="$PROJECT_DIR$/mergeSort/mergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickSort/quickSort.iml" filepath="$PROJECT_DIR$/quickSort/quickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/selectionSort/selectionSort.iml" filepath="$PROJECT_DIR$/selectionSort/selectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort.iml" filepath="$PROJECT_DIR$/sort.iml" />
     </modules>
