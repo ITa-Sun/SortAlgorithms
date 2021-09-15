@@ -26,5 +26,6 @@
     </orderEntry>
     <orderEntry type="module" module-name="selectionSort" scope="TEST" />
     <orderEntry type="module" module-name="insertSort" scope="TEST" />
+    <orderEntry type="module" module-name="mergeSort" scope="TEST" />
   </component>
 </module>

@@ -6,6 +6,7 @@ public class SortTest {
     public void TestSort(){
        // BubbleSort.doSort(arr);
 //        SelectionSort.doSort(arr);
-        InsertSort.doSort(arr);
+//        InsertSort.doSort(arr);
+        MergeSort.doSort(arr);
     }
 }
